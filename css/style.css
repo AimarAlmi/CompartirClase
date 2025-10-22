@@ -5,5 +5,9 @@
 
 h1 
 {
+<<<<<<< HEAD
     color: purple;
+=======
+    /*color: red;*/
+>>>>>>> feature/index
 }
