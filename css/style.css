@@ -1,12 +1,18 @@
 *   /*:ghost:WAZAAA:ghost:*/
 {
     background-color: aqua;
-}
+}   /*empezamos con el merche*/
+
 h1 
 {
+<<<<<<< HEAD
 <<<<<<< HEAD
     color: purple;
 =======
     color: red;
 >>>>>>> feature/colormorado
 }
+=======
+  /* color: purple;*/
+}
+>>>>>>> main
